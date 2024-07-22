@@ -1,11 +1,6 @@
 ------------------------------------------------------
--- COMP9311 24T2 Project 1 
 -- SQL and PL/pgSQL 
--- Solution Template
--- Name: Chen Xinyang
--- zID: z5499873
-------------------------------------------------------
--- Note: Before submission, please check your solution on the nw-syd-vxdb server using the check file.
+
 
 
 -- Q1:
